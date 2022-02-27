@@ -1,5 +1,5 @@
 # Reacting
-First contact with reactive
+First contact with react
 
 ## Tic Tac Toe
 Implemented simple tic-tac-toe game that:
